@@ -7,7 +7,7 @@ export default function WorkStation({ children }) {
   return (
     <Canvas>
       <PointLightController />
-      <OrbitControls enabled enablePan={false} enableZoom />
+      <OrbitControls enabled enablePan={false} enableZoom={false} />
       <Environment
         background={false}
         preset='city'
