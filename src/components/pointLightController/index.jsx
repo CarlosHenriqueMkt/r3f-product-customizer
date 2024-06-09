@@ -1,6 +1,6 @@
-import { useHelper } from '@react-three/drei'
+/* import { useHelper } from '@react-three/drei'
 import { useRef } from 'react'
-import { PointLightHelper } from 'three'
+import { PointLightHelper } from 'three' */
 
 export default function PointLightController() {
   /*   const point01 = useRef()
